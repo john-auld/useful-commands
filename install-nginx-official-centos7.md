@@ -1,4 +1,4 @@
-# Installing a Prebuilt CentOS/RHEL Package from the Official NGINX Repository
+# Install NGINX on CentOS 7 from the offical repo
 
 Set up the yum repository for RHEL or CentOS by creating the file nginx.repo in /etc/yum.repos.d, for example using vi:
 ```
