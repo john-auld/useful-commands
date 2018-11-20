@@ -13,11 +13,13 @@ sudo systemctl start docker
 docker search centos
 ```
 
-### Container commands
+### Image commands
 ```
 docker pull docker.io/centos
+docker images
 ```
 
+### Container commands
 ```
 docker run -it centos
 ```
